@@ -1,1 +1,1 @@
-# MotokoCalculator
+# MotokoCalculator for ICP internship
