@@ -29,11 +29,7 @@ actor hesap_makinesi {
   };
 
   public func square() : async Int{
-    if(result==0){
-      return 1
-    }else{
-      result *= result;
-      return result
-    };
+     result *= result;
+     return result
   };
 }
